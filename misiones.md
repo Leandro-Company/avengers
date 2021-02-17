@@ -1,3 +1,4 @@
 # MISIONES
 
-Investigar al Dr. Octpopus.
+Investigar al Dr. Octopus.
+Capturar Redskull.
